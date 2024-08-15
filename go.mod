@@ -1,3 +1,3 @@
-module github.com/hugo-blox/create-blox
+module https://github.com/hauntedcoffeehouse/urban-winner
 
 go 1.19
